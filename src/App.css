@@ -1,0 +1,52 @@
+/* .App {
+  text-align: center;
+} */
+.App1
+{
+  text-align: center;
+  background-color: gray;
+  color:white;
+  min-height: 100vh;
+}
+.footer
+{
+  text-align: center;
+}
+
+h1
+{
+  margin:0;
+  font-size:1.5vw;
+}
+.header
+{
+  background-color: blue;
+  padding:10px;
+}
+.movie
+{
+  color:white;
+  border:1px solid black;
+  padding:3px;
+  color:black;
+  
+}
+img
+{
+  width:100%;
+}
+.main
+{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding:14px;
+}
+@media only screen(max-width:575px)
+{
+  img{
+    width:100%;
+  }
+
+}
+
